@@ -1,0 +1,45 @@
+[
+    {
+      "name":"Dự án AI",
+      "member": ["apple","android","windows"], 
+      "date": "12.Jan",
+      "progress": 75.5  
+    },
+    {
+      "name":"ITSS",
+      "member": ["apple" ], 
+      "date": "21.Feb",
+      "progress": 35.4  
+    },
+    {
+      "name":"UI/UX",
+      "member": ["apple" ,"windows"], 
+      "date": "13.Mar",
+      "progress": 25  
+    },
+    {
+      "name":"Thiết Kế Giao Diện",
+      "member": ["apple","android","windows"], 
+      "date": "24.Jan",
+      "progress": 100  
+    },
+    {
+      "name":"TTUD",
+      "member": ["apple", "windows"], 
+      "date": "Oct 24",
+      "progress": 75.5  
+    },
+    {
+      "name":"Open ERP",
+      "member": ["apple","android","windows"], 
+      "date": "Oct 24",
+      "progress": 75.5  
+    },
+    {
+      "name":"Lập Trình Tổng Quát",
+      "member": ["apple","android","windows"], 
+      "date": "12.Jan",
+      "progress": 75.5  
+    }
+  ]
+  

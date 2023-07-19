@@ -1,0 +1,27 @@
+[
+    {
+      "name":"Thiết kế giao diện",
+      "project": "UI/UX", 
+      "date": "12.Jan",
+      "progress": 75.5  
+    },
+    {
+      "name":"Lập trình nhúng",
+      "project": "OPEN ERP", 
+      "date": "21.Feb",
+      "progress": 35.4  
+    },
+    {
+      "name":"Thiết kế mĩ thuật",
+      "project": "Vẽ thêm", 
+      "date": "13.Mar",
+      "progress": 25  
+    },
+    {
+      "name":"Xử lí logic",
+      "project": "TTUD", 
+      "date": "24.Jan",
+      "progress": 100  
+    }
+  ]
+  

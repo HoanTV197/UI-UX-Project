@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Dự án AI",
+    "priority": "High",
+    "date": "24.Jan",
+    "progress": 75.5  
+  },
+  {
+    "name":"ITSS",
+    "priority": "Low",
+    "date": "30.Dec",
+    "progress": 25.5  
+  },
+  {
+    "name":"UI/UX",
+    "priority": "High",
+    "date": "20.May.2021",
+    "progress": 90  
+  },
+  {
+    "name":"Open Erp",
+    "priority": "Medium",
+    "date": "12.Jul",
+    "progress": 50.5  
+  }
+]
